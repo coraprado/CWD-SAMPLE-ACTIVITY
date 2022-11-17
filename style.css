@@ -1,0 +1,8 @@
+.main-header{
+  background: url(../images/background.png);
+  min-height: 600px;
+  background-size: cover;
+  background-position: center;
+}
+
+
